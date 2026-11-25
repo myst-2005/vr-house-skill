@@ -2,6 +2,8 @@
 
 **One message from a client became a fully designed, costed house they could walk through on a Meta Quest, in 6 h 40 min, done by one AI.**
 
+> **New to this? Start here:** [Getting Started guide (PDF, 6 pages)](docs/MYST-Edge_VR-House-Skill_Getting-Started.pdf). It covers download, install and your first project, with no coding needed.
+
 `vr-house` is a Claude skill that reproduces that workflow. Claude works through 14 specialist roles in order, with three checkpoints where a person reviews before anything moves on:
 
 ```
@@ -73,7 +75,8 @@ vr-house/
     fix_textures.py           unplug missing textures (pink renders)
   examples/kochi-house/       the real scripts from the reference project (paths are project-specific)
 docs/
-  MYST-Edge_Build-Guide_AI-House-to-VR.pdf   the illustrated build guide
+  MYST-Edge_VR-House-Skill_Getting-Started.pdf   plain-language guide: download, install, first project
+  MYST-Edge_Build-Guide_AI-House-to-VR.pdf       the illustrated technical build guide
 ```
 
 ## AI drafts, architects decide
