@@ -1,0 +1,24 @@
+3D model credits - Kochi Residence, Option B interior renders
+==============================================================
+
+Sketchfab (CC Attribution 4.0 - credit required when the renders are shared):
+- "Corner Sofa" by trystyrobot - living room sectional
+  https://sketchfab.com/3d-models/f22ab377c8eb434dbe99a1206a49129d
+- "Dining Table Set" by uka.studio - dining table and chairs
+  https://sketchfab.com/3d-models/71444e9d3e204d4ca9478d383403834d
+- "Bed FORSSA" by leonardgraylar - master bed
+  https://sketchfab.com/3d-models/0e4ec2bb5aff42d8a324b3f8ab9ac9de
+- "Gaming Chair" by Kiiba - gaming room chair
+  https://sketchfab.com/3d-models/ccb3ada5917a4b90b689e1d1bf852dc2
+- "Gaming Desktop PC" by Yolala3d - gaming PC, monitors (x3), keyboard, mouse, speaker
+  https://sketchfab.com/3d-models/d1d8282c9916438091f11aeb28787b66
+
+Poly Haven (CC0 - free to use, no credit required):
+- "Mid Century Lounge Chair" by Kuutti Siitonen - https://polyhaven.com/a/mid_century_lounge_chair
+- "Potted Plant 01" by Rico Cilliers - https://polyhaven.com/a/potted_plant_01
+- "Potted Plant 02" by Rico Cilliers - https://polyhaven.com/a/potted_plant_02
+- "Modern Coffee Table 01" by Amin - https://polyhaven.com/a/modern_coffee_table_01
+- "Ceramic Vase 02" and "Ceramic Vase 04" by James Ray Cock - https://polyhaven.com/a/ceramic_vase_02
+- "Book Encyclopedia Set 01" by John Malcolm - https://polyhaven.com/a/book_encyclopedia_set_01
+
+Everything else (walls, ceilings, TV wall, cabinetry, lighting, materials) was modelled for this project.
